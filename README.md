@@ -17,7 +17,7 @@
 Hi! I'm YUAN TAO, a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+![My Image](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-YUANTAO-1/commit/538276c34e5105568ac20e8829616cc3290ba5f8#diff-e31df6ca67b7e6390cb4e019f9a614ec44caafec9956f6b46eb2392846213809)  <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
