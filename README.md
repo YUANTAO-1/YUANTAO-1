@@ -19,8 +19,6 @@ I [expect to learn a lot about modern software maintenance practices and how to 
 
 ![My Image](image.jpg)  <!-- Link to the uploaded image -->
 
-## GitHub Profile
 
-You can view my personalized GitHub profile ![here](https://github.com/YUANTAO-1)
 
 
